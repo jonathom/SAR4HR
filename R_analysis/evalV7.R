@@ -1,4 +1,7 @@
-# influence of coherence window visible
+######## Description ########
+# 7th script
+# visualize influence of coherence window size in preprocessing
+#############################
 rm(list=ls())
 library(raster)
 library(lattice)

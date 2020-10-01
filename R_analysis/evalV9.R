@@ -1,3 +1,6 @@
+######## Description ########
+# detailed ANOVA and MANOVA
+#############################
 pred <- predict(SAR_ratio, model_cv)
 spplot(pred)
 

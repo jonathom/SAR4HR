@@ -1,5 +1,8 @@
-### cut aleppo out
-# ndvi training
+######## Description ########
+# fifth script
+# explore influence of NDVI on model calculations and Kappa
+#############################
+
 library(raster)
 library(lattice)
 library(ggplot2)

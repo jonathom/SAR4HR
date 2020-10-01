@@ -1,4 +1,7 @@
-### al
+######## Description ########
+# fourth script
+# workflow with clipping, ratio calculation, NDVI masking and dataframe averaging
+#############################
 library(raster)
 library(lattice)
 library(ggplot2)

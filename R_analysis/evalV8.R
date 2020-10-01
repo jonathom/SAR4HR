@@ -1,5 +1,8 @@
+######## Description ########
 # ANOVA
 # test a 15x4, 4x1 model with anova, and models with all kinds of damage
+# difference between NDVI and no NDVI threshold
+#############################
 setwd("/home/petra/Downloads/BA_DATA/sync_level")
 library(rstatix)
 library(ggplot2)

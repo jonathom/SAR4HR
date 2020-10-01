@@ -1,4 +1,8 @@
-# coh and ML testing + plots
+######## Description ########
+# 6
+# coherence and multi-looking window influence testing 
+# and all kinds of plots
+#############################
 rm(list=ls())
 library(raster)
 library(lattice)

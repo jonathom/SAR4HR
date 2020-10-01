@@ -1,4 +1,10 @@
-# coh and ML testing + plots
+######## Description ########
+# workflow second case study
+# clippng, NDVI etc.
+# incides
+# plots
+#############################
+
 rm(list=ls())
 library(raster)
 library(lattice)
